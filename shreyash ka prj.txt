@@ -1,0 +1,38 @@
+<html>
+<title>
+WEBPAGE
+</title>
+<head>
+<body>
+<h1 align=“center”IMPACT OF EDUCATIONAL SECTOR </h1>
+<body style=“ background car:Gray;”>
+<h1 style=“background clr:black;”>
+<table ><width=“28”>
+ <th>Name of state</th>
+<th>Efficiency of education </th>
+</tr>
+<tr>
+<td >Andra pradesh </td>
+<td>Assam</td>
+<td>Goa</td>
+<td>Gujarat </td>
+<td>Assam</td>
+</tr>
+<tr>
+<td>45%</td>
+<td>15%</td>
+<td>25%</td>
+<td>11%</td>
+</tr>
+</table>
+<img src =“ http://jpg”>
+<p><b>From above pie chart we came to know that</p>
+<p align =“center”><font size =“10”><b>States</b><font ></p>
+<Ol>
+<li>Andhra pradesh</li>
+<li>Goa</li>
+<li>Gujarat </li>
+</Ol>
+<p><font=“italic”>It shows the impact of education happen in the pandemic year of 2021 .It points out that the yrs of COVID-19 had affected a Education sector a lot<p></Font=“ italic”>
+</body>
+</HTML>
